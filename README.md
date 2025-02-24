@@ -1,5 +1,5 @@
 # Student_marks_evaluation_system
-GUI based student marksheet generator.
+GUI based student marksheet generator using tkinter.
  Objective: To automate the calculation of total marks, percentage, and division based 
             on student scores.
 Key Features: 1.User friendly interface, Student data input by user.
